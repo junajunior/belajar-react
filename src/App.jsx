@@ -106,6 +106,7 @@ function App() {
                     <h2 className="pt-3 font-bold text-2xl">
                       Mobile Applications
                     </h2>
+                    <h2>arjuna</h2>
                     <p className="pt-2 font-semibold">
                       Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                       Eum, fugiat quia. Id qui recusandae, praesentium
